@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gmail Triage"
+  short_description: "Check Gmail and categorize messages by priority."
+  default_prompt: "Use this skill to review a Gmail inbox, classify messages into high priority, low priority, and no need to view, and summarize the reasoning."
